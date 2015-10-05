@@ -1,0 +1,4 @@
+loadfile C:/Users/Matt/workspace/sunstone_firmware/_build/nrf51822_xxaa_s110.hex
+r
+g
+exit

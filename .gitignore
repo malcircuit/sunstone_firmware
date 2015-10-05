@@ -1,0 +1,6 @@
+_build
+.cproject
+.project
+.settings
+Debug
+*.launch

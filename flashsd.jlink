@@ -1,0 +1,4 @@
+loadbin /Users/Matt/nRF51_SDK/components/softdevice/s110/hex/s110_softdevice.hex 0
+r
+g
+exit
